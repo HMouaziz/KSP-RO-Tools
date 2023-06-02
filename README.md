@@ -3,4 +3,4 @@
 Collection of tools for use on KSP with RO/RP1.
 
 Current Tools:
-Obit Darkness Calculator
+Orbit Darkness Calculator
